@@ -1,0 +1,22 @@
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\bin\Debug\Taller_12_04_2018.exe.config
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\bin\Debug\Taller_12_04_2018.exe
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\bin\Debug\Taller_12_04_2018.pdb
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.csprojResolveAssemblyReference.cache
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.Form1.resources
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.Properties.Resources.resources
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.csproj.GenerateResource.Cache
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.csproj.CoreCompileInputs.cache
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.exe
+c:\users\estudiante\source\repos\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.pdb
+E:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.csprojResolveAssemblyReference.cache
+E:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.exe
+E:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.pdb
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\bin\Debug\Taller_12_04_2018.exe.config
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.exe
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.pdb
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\bin\Debug\Taller_12_04_2018.exe
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\bin\Debug\Taller_12_04_2018.pdb
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.csprojResolveAssemblyReference.cache
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.Form1.resources
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.Properties.Resources.resources
+F:\raquel\Sotware II\Taller_12_04_2018\Taller_12_04_2018\obj\Debug\Taller_12_04_2018.csproj.GenerateResource.Cache
